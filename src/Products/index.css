@@ -1,0 +1,35 @@
+.Product-classbox{
+    background-color: grey;
+    height: 400px;
+    width: 300px;
+    margin-right: 24px;
+}
+.Product-boxcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.Product-matter{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    height: 400px;
+}
+.Product-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Product-videoheading{
+    font-size: 22px;
+    font-weight: bold;
+}
+.Product-practicebtn{
+    background-color: black;
+    color: #ffffff;
+    height: 36px;
+    width: 150px;
+}

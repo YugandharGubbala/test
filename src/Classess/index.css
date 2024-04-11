@@ -1,0 +1,28 @@
+.classbox{
+    background-color: grey;
+    height: 250px;
+    width: 300px;
+    margin-right: 24px;
+}
+.boxcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.videoheading{
+    font-size: 22px;
+    font-weight: bold;
+}
+.practicebtn{
+    background-color: black;
+    color: #ffffff;
+    height: 36px;
+    width: 150px;
+}
